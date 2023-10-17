@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-[<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />](https://github.com/kaylynnarmstrong/Project-5/blob/main/Screen_recording_20231017_181455.webm)
+https://github.com/kaylynnarmstrong/Project-5/blob/main/Screen_recording_20231017_181455.webm
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
